@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Jhonne Jefferson — dev full-stack, Teresina-PI" width="100%">
+<img src="assets/banner.png" alt="Jhonne Jefferson — dev full-stack" width="100%">
 
 TypeScript com React e Node, Python com FastAPI, PHP com Laravel. Postgres e MySQL de banco.
 Construo o Volt, um ERP/CRM que começou como app de finanças pessoais.
