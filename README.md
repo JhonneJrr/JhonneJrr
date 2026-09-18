@@ -2,7 +2,7 @@
 
 TypeScript com React e Node, Python com FastAPI, PHP com Laravel. Postgres e MySQL de banco.
 Construo o Volt, um ERP/CRM que começou como app de finanças pessoais.
-Ensino desenvolvimento de sistemas na rede estadual do Piauí.
+Ensino desenvolvimento de sistemas na SEDUC-PI.
 
 [![E-mail](https://img.shields.io/badge/-E--mail-c93d4c?style=flat-square&logo=gmail&logoColor=white)](mailto:jhonnejr@gmail.com)
 
